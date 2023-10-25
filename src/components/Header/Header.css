@@ -1,0 +1,58 @@
+/* Navbar  */
+.nav-items {
+  color: #000 !important;
+  /* font-family: Satoshi; */
+  font-size: 1rem !important;
+  font-style: normal !important;
+  font-weight: 500 !important;
+  line-height: normal !important;
+  text-transform: none !important;
+}
+.nav-button {
+  color: #fff !important;
+  border-radius: 0.625rem !important;
+  background: #00a0aa !important;
+  /* font-family: Satoshi !important; */
+  font-size: 1.25rem !important;
+  font-weight: 700 !important;
+  text-transform: none !important;
+}
+
+/* Topbar */
+.Topbar {
+  /* display: flex; */
+  /* padding: 0.625rem 9.75rem; */
+  align-items: center;
+  background: #00a0aa;
+  padding-left: 6rem;
+}
+
+.Topbar-button {
+  padding: 0 !important;
+  color: #f8f9fe !important;
+  text-align: center !important;
+  /* font-family: Satoshi !important; */
+  font-size: 1.125rem !important;
+  font-style: normal !important;
+  font-weight: 500 !important;
+  line-height: normal !important;
+  text-transform: none !important;
+  padding-bottom: 8px !important;
+  padding-top: 8px !important;
+}
+
+.header-para {
+  color: #00a0aa;
+  font-size: 1.25rem;
+  font-style: normal;
+  font-weight: 700;
+  line-height: normal;
+  margin-top: 3rem;
+}
+.header-title {
+  color: #000;
+  font-size: 4.375rem;
+  font-style: normal;
+  font-weight: 700;
+  line-height: 5.625rem; /* 128.571% */
+}
